@@ -23,6 +23,7 @@
     "aws-sdk": "^2.1106.0",
     "globby": "^10.0.1",
     "log-update": "^3.3.0",
+    "mime": "^3.0.0",
     "minimist": "^1.2.5",
     "progress": "^2.0.3"
   },
